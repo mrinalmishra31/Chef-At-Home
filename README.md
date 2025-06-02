@@ -2,7 +2,7 @@
 
 **Delivering Gourmet Dining, Right to Your Door.**
 
-![CAH Logo](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Logo.png)
+![CAH Logo](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20Logo.png)
 
 Welcome to the official repository for **Chef At Home**, a digital platform that connects professional chefs with food lovers seeking a restaurant-style experience in the comfort of their homes. This repository showcases our full-stack marketing and branding strategy—including product demos, social media campaigns, wireframes, SEO, PPC plans, and more.
 
@@ -21,7 +21,7 @@ Welcome to the official repository for **Chef At Home**, a digital platform that
 
 Meet our target customer:
 
-![CAH User Persona](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20User%20Persona.png)
+![CAH User Persona](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20User%20Persona.png)
 
 ---
 
@@ -30,8 +30,8 @@ Meet our target customer:
 Here are sample Instagram post designs created for campaign promotions:
 
 <p float="left">
-  <img src="https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%201.png" width="300"/>
-  <img src="https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%202.png" width="300"/>
+  <img src="https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%201.png" width="300"/>
+  <img src="https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%202.png" width="300"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Here are sample Instagram post designs created for campaign promotions:
 
 A full-week organic social content plan tailored for engagement and visibility:
 
-![CAH Weekly Content Calendar](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Weekly%20Content%20Calendar.png)
+![CAH Weekly Content Calendar](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20Weekly%20Content%20Calendar.png)
 
 ---
 
@@ -48,14 +48,14 @@ A full-week organic social content plan tailored for engagement and visibility:
 
 Explore the user journey and core features of our mobile app:
 
-📄 [CAH Mobile App WireFrame.pptx](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Application%20Wireframe/CAH%20Mobile%20App%20WireFrame.pptx)
+📄 [CAH Mobile App WireFrame.pptx](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Application%20Wireframe/CAH%20Mobile%20App%20WireFrame.pptx)
 
 ---
 
 ## 🎥 Demo Videos
 
-- 📱 [Mobile Responsive Website Demo](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/1%20CAH%20Mobile%20responsive%20website%20demo.mp4)  
-- 🎬 [Promotional Ad Video](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/2%20CAH%20Ad%20Video.mp4)
+- 📱 [Mobile Responsive Website Demo](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/1%20CAH%20Mobile%20responsive%20website%20demo.mp4)  
+- 🎬 [Promotional Ad Video](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/2%20CAH%20Ad%20Video.mp4)
 
 ---
 
@@ -63,9 +63,9 @@ Explore the user journey and core features of our mobile app:
 
 | Blog | Topic |
 |------|-------|
-| [Blog 1](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%201.pdf) | The Chef At Home Experience |
-| [Blog 2](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%202.pdf) | The Rise of Organic Food |
-| [Blog 3](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%203.pdf) | A Day in the Life of a Personal Chef |
+| [Blog 1](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20zBlog%201.pdf) | The Chef At Home Experience |
+| [Blog 2](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20zBlog%202.pdf) | The Rise of Organic Food |
+| [Blog 3](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20zBlog%203.pdf) | A Day in the Life of a Personal Chef |
 
 ---
 
@@ -73,11 +73,11 @@ Explore the user journey and core features of our mobile app:
 
 | File | Description |
 |------|-------------|
-| [PPC & Display Ad Strategy](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20PPC%20%26%20Display%20Ad%20Strategy.pdf) | Ad placement and Google Ads targeting |
-| [SEO Strategy Presentation](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Presentation.pdf) | SEO approach with keywords and content focus |
-| [SEO Summary Report](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Summary%20Report.pdf) | Breakdown of technical, on-page, off-page strategy |
-| [Social Media Strategy](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20Social%20Media%20Strategy.pdf) | Channel-wise voice, frequency, and targeting |
-| [Combined Strategy Summary](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20PPC%2C%20Display-Ad%2C%20Social%20Media%20Strategy%20Summary%20Report.pdf) | Full digital marketing strategy in one place |
+| [PPC & Display Ad Strategy](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Final%20Strategies/CAH%20PPC%20%26%20Display%20Ad%20Strategy.pdf) | Ad placement and Google Ads targeting |
+| [SEO Strategy Presentation](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Presentation.pdf) | SEO approach with keywords and content focus |
+| [SEO Summary Report](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Summary%20Report.pdf) | Breakdown of technical, on-page, off-page strategy |
+| [Social Media Strategy](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Final%20Strategies/CAH%20Social%20Media%20Strategy.pdf) | Channel-wise voice, frequency, and targeting |
+| [Combined Strategy Summary](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Final%20Strategies/CAH%20PPC%2C%20Display-Ad%2C%20Social%20Media%20Strategy%20Summary%20Report.pdf) | Full digital marketing strategy in one place |
 
 ---
 
@@ -98,7 +98,7 @@ Explore the user journey and core features of our mobile app:
 
 Scan the QR code to explore Chef At Home:
 
-![CAH QR Code](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20QR.png)
+![CAH QR Code](https://github.com/mrinalmishra31/Chef-At-Home/tree/main/CAH%20Demos%20%26%20Assets/CAH%20QR.png)
 
 ---
 
