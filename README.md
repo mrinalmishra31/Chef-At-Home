@@ -2,7 +2,12 @@
 
 **Delivering Gourmet Dining, Right to Your Door.**
 
+![CAH Logo](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Logo.png)
+
 Welcome to the official repository for **Chef At Home**, a digital platform that connects professional chefs with food lovers seeking a restaurant-style experience in the comfort of their homes. This repository showcases our full-stack marketing and branding strategy—including product demos, social media campaigns, wireframes, SEO, PPC plans, and more.
+
+> 🎯 **Keyword:** “Personal chef near you”  
+> 📝 **Meta Description:** "Book a professional organic chef for your home. Enjoy gourmet, healthy meals prepared fresh by our expert chefs. Organic ingredients, healthy options, and a restaurant-style experience in the comfort of your home."
 
 ---
 
@@ -10,76 +15,99 @@ Welcome to the official repository for **Chef At Home**, a digital platform that
 
 **Chef At Home** is designed for busy individuals and families who crave gourmet, healthy, and organic food experiences without leaving home. Customers can book verified chefs who bring their own team and ingredients to prepare and serve meals in-home, including cleanup.
 
-> 🎯 **Keyword:** “Personal chef near you”  
-> 📝 **Meta Description:** "Book a professional organic chef for your home. Enjoy gourmet, healthy meals prepared fresh by our expert chefs. Organic ingredients, healthy options, and a restaurant-style experience in the comfort of your home."
+---
+
+## 👥 User Persona
+
+Meet our target customer:
+
+![CAH User Persona](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20User%20Persona.png)
 
 ---
 
-## 📁 Repository Structure
+## 🎯 Social Media Campaign Visuals
 
-### 📂 CAH Application Wireframe
+Here are sample Instagram post designs created for campaign promotions:
+
+<p float="left">
+  <img src="Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%201.png" width="300"/>
+  <img src="Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%202.png" width="300"/>
+</p>
+
+---
+
+## 🗓 Weekly Content Calendar
+
+A full-week organic social content plan tailored for engagement and visibility:
+
+![CAH Weekly Content Calendar](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Weekly%20Content%20Calendar.png)
+
+---
+
+## 📱 Mobile App Wireframe
+
+Explore the user journey and core features of our mobile app:
+
+📄 [CAH Mobile App WireFrame.pptx](Chef%20At%20Home/CAH%20Application%20Wireframe/CAH%20Mobile%20App%20WireFrame.pptx)
+
+---
+
+## 🎥 Demo Videos
+
+- 📱 [Mobile Responsive Website Demo](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/1%20CAH%20Mobile%20responsive%20website%20demo.mp4)  
+- 🎬 [Promotional Ad Video](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/2%20CAH%20Ad%20Video.mp4)
+
+---
+
+## ✍️ Blog Content
+
+| Blog | Topic |
+|------|-------|
+| [Blog 1](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%201.pdf) | The Chef At Home Experience |
+| [Blog 2](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%202.pdf) | The Rise of Organic Food |
+| [Blog 3](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%203.pdf) | A Day in the Life of a Personal Chef |
+
+---
+
+## 📊 Strategy Decks
+
 | File | Description |
 |------|-------------|
-| [CAH Mobile App WireFrame.pptx](Chef%20At%20Home/CAH%20Application%20Wireframe/CAH%20Mobile%20App%20WireFrame.pptx) | Wireframe design of the Chef At Home mobile app showing user flow and feature screens |
+| [PPC & Display Ad Strategy](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20PPC%20%26%20Display%20Ad%20Strategy.pdf) | Ad placement and Google Ads targeting |
+| [SEO Strategy Presentation](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Presentation.pdf) | SEO approach with keywords and content focus |
+| [SEO Summary Report](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Summary%20Report.pdf) | Breakdown of technical, on-page, off-page strategy |
+| [Social Media Strategy](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20Social%20Media%20Strategy.pdf) | Channel-wise voice, frequency, and targeting |
+| [Combined Strategy Summary](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20PPC%2C%20Display-Ad%2C%20Social%20Media%20Strategy%20Summary%20Report.pdf) | Full digital marketing strategy in one place |
 
 ---
 
-### 🎥 CAH Demos & Assets
-| File | Description |
-|------|-------------|
-| [1 CAH Mobile responsive website demo.mp4](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/1%20CAH%20Mobile%20responsive%20website%20demo.mp4) | Responsive website walkthrough demo |
-| [2 CAH Ad Video.mp4](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/2%20CAH%20Ad%20Video.mp4) | Promotional ad video used for social campaigns |
-| [CAH Insta Demo Post 1.png](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%201.png) | Instagram marketing post #1 |
-| [CAH Insta Demo Post 2.png](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Insta%20Demo%20Post%202.png) | Instagram marketing post #2 |
-| [CAH Logo.png](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Logo.png) | Brand logo |
-| [CAH QR.png](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20QR.png) | QR code for app/website |
-| [CAH User Persona.png](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20User%20Persona.png) | Target user persona visualization |
-| [CAH Weekly Content Calendar.png](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20Weekly%20Content%20Calendar.png) | Social media calendar with post strategy |
-| [CAH zBlog 1.pdf](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%201.pdf) | Blog Post 1: Long-form promotional content |
-| [CAH zBlog 2.pdf](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%202.pdf) | Blog Post 2: Organic food insights |
-| [CAH zBlog 3.pdf](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20zBlog%203.pdf) | Blog Post 3: Chef lifestyle article |
+## 🧠 Key App Features
+
+- 🔍 Discover chefs by cuisine or occasion  
+- 🧾 Easy booking with upfront pricing  
+- 🌟 Chef profiles with reviews and specialties  
+- 📍 Location-based discovery  
+- 💬 Chat & custom requests  
+- ❤️ Save favorite chefs/cuisines  
+- 🧑‍🍳 Personalized suggestions based on history  
+- 💳 Secure payment and saved addresses  
 
 ---
 
-### 📊 CAH Final Strategies
-| File | Description |
-|------|-------------|
-| [CAH PPC & Display Ad Strategy.pdf](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20PPC%20%26%20Display%20Ad%20Strategy.pdf) | Paid marketing approach for search & display networks |
-| [CAH PPC, Display-Ad, Social Media Strategy Summary Report.pdf](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20PPC%2C%20Display-Ad%2C%20Social%20Media%20Strategy%20Summary%20Report.pdf) | Full summary of ad and social strategies |
-| [CAH SEO Strategy Presentation.pdf](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Presentation.pdf) | SEO keyword plan, metadata design, site optimization |
-| [CAH SEO Strategy Summary Report.pdf](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20SEO%20Strategy%20Summary%20Report.pdf) | SEO insights report including on-page/off-page elements |
-| [CAH Social Media Strategy.pdf](Chef%20At%20Home/CAH%20Final%20Strategies/CAH%20Social%20Media%20Strategy.pdf) | Channel-wise posting plan, voice/tone strategy, engagement plan |
+## 📲 Quick Access QR
 
----
+Scan the QR code to explore Chef At Home:
 
-## 🔍 Key Features of the App
-
-- 🔎 Discover chefs by cuisine or occasion  
-- 🧾 Bookings with upfront pricing  
-- 📋 Chef profiles with ratings, reviews, and past dishes  
-- 📍 Geo-location-based recommendations  
-- ❤️ Save favorite chefs or cuisines  
-- 🧑‍🍳 Personalized suggestions based on food history  
-- 💳 Easy checkout with saved payment methods  
-- 📞 Contact Us via WhatsApp, Email, or Call
-
----
-
-## 🚀 Digital Marketing Highlights
-
-- 📈 **SEO Focus:** “Personal chef near you”, organic/healthy food, in-home dining
-- 📱 **Social Media:** Strong Instagram presence with reels, chef tips, and testimonials
-- 💬 **Paid Ads:** Google Display, PPC, and Instagram targeting urban households
-- 📅 **Content Calendar:** Weekly themed posts, reels, and event promotions
+![CAH QR Code](Chef%20At%20Home/CAH%20Demos%20%26%20Assets/CAH%20QR.png)
 
 ---
 
 ## 📬 Contact
 
-Interested in collaborating, funding, or trying the service?
+For partnerships, queries, or bookings:
 
 📧 Email us | 📞 Call us | 💬 WhatsApp us  
-(Details included in the app & social media pages)
+(Available via mobile app & website)
 
 ---
 
