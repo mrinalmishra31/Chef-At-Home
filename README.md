@@ -115,4 +115,10 @@ For partnerships, queries, or bookings:
 
 ---
 
-© 2025 Chef At Home. All rights reserved.
+## 📢 License
+
+This project is part of an academic coursework and is provided for educational reference only.
+
+---
+
+© 2025 Chef At Home. All rights reserved | Created by Mrinal Mishra
